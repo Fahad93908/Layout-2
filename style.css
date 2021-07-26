@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.headerLogo{
+    overflow: hidden;
+}
+.logo{
+background: red;
+color: white;
+width: 50%;
+float: left;
+text-align: center;
+}
+.banner{
+background: #002bff;
+color: white;
+width: 50%;
+float: left;
+text-align: center;
+}
+.headerBar {
+    background: rgb(171, 172, 170);
+    color: white;
+    text-align: center;
+}
+.LeftCenterRight{
+    overflow: hidden;
+}
+.Left {
+    width: 25%;
+    background: green;
+    color: white;
+    text-align: center;
+    height: 500px;
+    float: left;
+}
+
+.Center {
+    width: 50%;
+    background: #238398;
+    color: white;
+    text-align: center;
+    height: 500px;
+    float: left;
+}
+
+.Right {
+    width: 25%;
+    background: #cc3b04;
+    color: white;
+    text-align: center;
+    height: 500px;
+    float: left;
+}
+footer{
+    overflow: hidden;
+    
+}
+.footerbar{
+    background:blue;
+    color: white;
+    text-align: center;
+    height: 90px;
+}
+.CBlock{
+    background: rgb(33, 184, 204);
+    height: 150px;
+}
+.cLeftCright{
+    overflow: hidden;
+}
+.CLeft{
+    background: blue;
+    float: left;
+    width: 50%;
+    height: 200px;
+}
+.CRight{
+    background: rgb(104, 45, 199);
+    float: left;
+    width: 50%;
+    height: 200px;
+}
+.CBottom{
+    background: rgb(120, 197, 20);
+    height: 150px;
+}
